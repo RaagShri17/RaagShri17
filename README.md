@@ -9,7 +9,7 @@
 
 ## About Me
 
-I am a first-year B.Tech student at VIT Bhopal University. 
+I am a second-year B.Tech student at VIT Bhopal University. 
 I hope to learn how to build real-world AI applications 
 and use technology to solve meaningful problems.
 
